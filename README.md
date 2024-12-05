@@ -1,5 +1,5 @@
 # SimonGame
-The Final Project for ENSE352 - Fundementals of Computer System Archetecture
+The Final Project for ENSE352 - Fundamentals of Computer System Architecture
 
 # Video Showcase 
 https://youtube.com/shorts/7o1RiaVvYJE?feature=share
