@@ -1,2 +1,3 @@
 # SimonGame
-The Final Project for ENSE352 - Fundementals of Computer System Archetecture
+The Final Project for ENSE352 - Fundementals of Computer System Archetecture.
+The project is based on it's namesake, electronic short-term memory game by Hasbro. The game starts off with a "Knight Rider" light sequence, once user presses any button the first round will start, it will light up LEDs at random and the user must input the correct sequence. If the user fails to enter the correct sequence within a certain amount of time, or enters a wrong input, the LEDs will display the binary number of the round the user failed and then display a failure sequence. If the user completes 10 rounds, they win! the LEDs will flash the binary number 10 and display a winning sequence. Once the user either fails or wins (completes 10 rounds) they can press an button to play the game again.
