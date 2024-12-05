@@ -27,4 +27,4 @@ The Knight rider sequence is going, you press any button and the firts round wil
 2. Rounds
 The first round starts with a 1 LED sequence, which you will then input. The second round has a 2 LED sequence which you then input, so on and so forth
 
-# Enjoy 1
+# Enjoy!
