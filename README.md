@@ -25,7 +25,7 @@ The failure sequence is the odd and even LEDS flashing back and forth 4 times, (
 
 # Gameplay
 1. Start the game
-The Knight rider sequence is going, you press any button and the firts round will start
+The Knight rider sequence is going, you press any button and the first round will start
 2. Rounds
 The first round starts with a 1 LED sequence, which you will then input. The second round has a 2 LED sequence which you then input, so on and so forth
 
